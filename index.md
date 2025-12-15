@@ -5,7 +5,7 @@
 Its goal is to document, contextualize, and safeguard media that risks being lost.
 
 ## Browse
-- [Browse the Archive](archive.md)
+- [Browse the Archive](Axiom-Archive/archive.html)
 
 - ## Mission
 - Preservation - Accuracy - Respect for creators
