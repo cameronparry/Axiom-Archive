@@ -13,3 +13,4 @@
 - [ ] report current events
 - [ ] get funds
 - [ ] make a website that works
+- [x] have fun
